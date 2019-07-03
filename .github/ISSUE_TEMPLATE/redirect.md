@@ -7,7 +7,8 @@ assignees: ''
 
 ---
 
-## External repository
-The code is in an external repository but all issues are managed from the main repository at https://github.com/eclipse/che/issues
+## Where to report issues?
 
-Please do not submit new issues here
+This repository is not the primary repository of Eclipse Che. Please don't submit new issues here.
+
+All issues for Eclipse Che are getting managed at: https://github.com/eclipse/che/issues
