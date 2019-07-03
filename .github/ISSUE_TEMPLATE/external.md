@@ -1,6 +1,6 @@
 
 ---
-name: ⚠️ Where to report issues ?
+name: ⚠️ Report issue
 about: This repository is not the primary repository of Eclipse Che. Please create issues at https://github.com/eclipse/che/issues
 title: 'Issues needs to be filed on the main Eclipse Che repository'
 labels: ''
